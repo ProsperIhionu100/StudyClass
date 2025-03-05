@@ -4,7 +4,6 @@ boto3==1.35.10
 botocore==1.35.10
 certifi==2024.7.4
 charset-normalizer==3.3.2
-crispy-tailwind==1.0.3
 dj-database-url==2.3.0
 Django==4.2
 django-cors-headers==4.4.0
