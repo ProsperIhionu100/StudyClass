@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-jotx67^g!7kwe6#j(zxru0v)b^8-67lk6k5d$6c$_!##=2frp!
 DEBUG = True
 
 ALLOWED_HOSTS = ['studyclass-production.up.railway.app', 'https://studyclass-production.up.railway.app']
-CSRF_TRUSTED_ORIGINS = ['studyclass-production.up.railway.app', 'https://studyclass-production.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://studyclass-production.up.railway.app']
 
 
 # Application definition
