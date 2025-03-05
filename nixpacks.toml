@@ -1,2 +1,0 @@
-[pkgs]
-apt = ["postgresql-client", "python3", "gcc"]
